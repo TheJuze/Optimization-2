@@ -1,0 +1,6 @@
+C:\Users\diman\Desktop\METODS\METODS\bin\Debug\METODS.exe.config
+C:\Users\diman\Desktop\METODS\METODS\bin\Debug\METODS.exe
+C:\Users\diman\Desktop\METODS\METODS\bin\Debug\METODS.pdb
+C:\Users\diman\Desktop\METODS\METODS\obj\Debug\METODS.csprojResolveAssemblyReference.cache
+C:\Users\diman\Desktop\METODS\METODS\obj\Debug\METODS.exe
+C:\Users\diman\Desktop\METODS\METODS\obj\Debug\METODS.pdb

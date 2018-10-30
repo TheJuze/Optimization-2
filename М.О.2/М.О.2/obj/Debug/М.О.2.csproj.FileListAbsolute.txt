@@ -1,0 +1,6 @@
+C:\Users\diman\Desktop\М.О.2\М.О.2\bin\Debug\М.О.2.exe.config
+C:\Users\diman\Desktop\М.О.2\М.О.2\obj\Debug\М.О.2.csprojResolveAssemblyReference.cache
+C:\Users\diman\Desktop\М.О.2\М.О.2\bin\Debug\М.О.2.exe
+C:\Users\diman\Desktop\М.О.2\М.О.2\bin\Debug\М.О.2.pdb
+C:\Users\diman\Desktop\М.О.2\М.О.2\obj\Debug\М.О.2.exe
+C:\Users\diman\Desktop\М.О.2\М.О.2\obj\Debug\М.О.2.pdb
